@@ -16,8 +16,6 @@ A comprehensive showcase of modern box shadow and filter effects in React Native
 - Interactive shadow animations
 - Inset shadows
 
-![Box Shadow & Filter Demo](./assets/demos/boxshadowfilter/video.mp4)
-
 **Key Features:**
 
 - Animated press interactions
@@ -27,7 +25,17 @@ A comprehensive showcase of modern box shadow and filter effects in React Native
 - Expo compatible
 
 **Screenshots:**
-<img src="./assets/images/demos/boxshadowfilter/1.png" width="300" alt="Box Shadow & Filter Screenshot">
-<img src="./assets/images/demos/boxshadowfilter/2.png" width="300" alt="Box Shadow & Filter Screenshot">
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./assets/images/demos/boxshadowfilter/1.png" width=20% alt="Box Shadow & Filter Screenshot">
+<img src="./assets/images/demos/boxshadowfilter/2.png" width=20% alt="Box Shadow & Filter Screenshot">
+</div>
+
+## Demo
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./assets/images/demos/boxshadowfilter/demo.gif" width=30%>
+
+</div>
 
 **Usage Example:**
