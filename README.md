@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# React Native UI Components
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A collection of modern, reusable React Native UI components with detailed documentation and examples.
 
-## Get started
+## Components
 
-1. Install dependencies
+### 1. Box Shadow & Filter Examples
 
-   ```bash
-   npm install
-   ```
+**Location**: `components/BoxShadowFilter/index.tsx`
 
-2. Start the app
+A comprehensive showcase of modern box shadow and filter effects in React Native, demonstrating:
 
-   ```bash
-    npx expo start
-   ```
+- String and object syntax box shadows
+- Colored shadows with customizable opacity
+- Filter effects (opacity, brightness)
+- Interactive shadow animations
+- Inset shadows
 
-In the output, you'll find options to open the app in a
+![Box Shadow & Filter Demo](./assets/demos/boxshadowfilter/video.mp4)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**Key Features:**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Animated press interactions
+- Customizable shadow properties
+- Multiple filter effects
+- TypeScript support
+- Expo compatible
 
-## Get a fresh project
+**Screenshots:**
+<img src="./assets/images/demos/boxshadowfilter/1.png" width="300" alt="Box Shadow & Filter Screenshot">
+<img src="./assets/images/demos/boxshadowfilter/2.png" width="300" alt="Box Shadow & Filter Screenshot">
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Usage Example:**
