@@ -1,10 +1,14 @@
-import BoxShadowFilter from "@/components/BoxShadowFilter";
+// import BoxShadowFilter from "@/components/BoxShadowFilter";
+// import DummyTest from "@/components/DummyTest";
+import PerformantUI from "@/components/PerformantUI";
 import { SafeAreaView, StyleSheet } from "react-native";
 
 export default function Index() {
   return (
     <SafeAreaView style={styles.container}>
-      <BoxShadowFilter />
+      {/* <BoxShadowFilter /> */}
+      {/* <DummyTest /> */}
+      <PerformantUI />
     </SafeAreaView>
   );
 }
