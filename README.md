@@ -4,6 +4,31 @@ A collection of modern, reusable React Native UI components with detailed docume
 
 ## Components
 
+### 2. Performant non-blockingUI
+
+**Location**: `components/PerformantUI/index.tsx`
+
+A comprehensive showcase of modern non-blocking UI in React Native using `useLayoutEffect`, `useTransition`, `Suspense` and `lazy`, demonstrating:
+
+- Lazy loading of components
+- Non-blocking UI with `useTransition` and `Suspense`
+- `useLayoutEffect` for synchronizing the UI with data
+
+**Screenshots:**
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./assets/images/demos/performantUI/1.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/performantUI/2.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/performantUI/3.png" width=20% alt="Performant UI Screenshot">
+</div>
+
+## Demo
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./assets/images/demos/performantUI/demo.gif" width=30%>
+
+</div>
+
 ### 1. Box Shadow & Filter Examples
 
 **Location**: `components/BoxShadowFilter/index.tsx`
