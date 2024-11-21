@@ -4,6 +4,34 @@ A collection of modern, reusable React Native UI components with detailed docume
 
 ## Components
 
+### 3. Performant PopUp Toast
+
+**Location**: `components/PopUpToast/index.tsx`
+
+A comprehensive showcase of modern animated toast UI in React Native using `react-native-reanimated`,
+
+demonstrating:
+
+- Animated toast messages
+- Toast types (success, error)
+
+**Screenshots:**
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./assets/images/demos/PerformantPopupToast/1.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantPopupToast/2.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantPopupToast/3.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantPopupToast/4.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantPopupToast/5.png" width=20% alt="Performant UI Screenshot">
+</div>
+
+## Demo
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./assets/images/demos/PerformantPopupToast/demo.gif" width=30%>
+
+</div>
+
 ### 2. Performant non-blockingUI
 
 **Location**: `components/PerformantUI/index.tsx`
