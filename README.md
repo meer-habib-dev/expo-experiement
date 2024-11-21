@@ -45,15 +45,15 @@ A comprehensive showcase of modern non-blocking UI in React Native using `useLay
 **Screenshots:**
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./assets/images/demos/performantUI/1.png" width=20% alt="Performant UI Screenshot">
-<img src="./assets/images/demos/performantUI/2.png" width=20% alt="Performant UI Screenshot">
-<img src="./assets/images/demos/performantUI/3.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantUI/1.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantUI/2.png" width=20% alt="Performant UI Screenshot">
+<img src="./assets/images/demos/PerformantUI/3.png" width=20% alt="Performant UI Screenshot">
 </div>
 
 ## Demo
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./assets/images/demos/performantUI/demo.gif" width=30%>
+<img src="./assets/images/demos/PerformantUI/demo.gif" width=30%>
 
 </div>
 
